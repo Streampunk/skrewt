@@ -1,0 +1,26 @@
+{
+  "name": "skrewt",
+  "version": "0.0.1",
+  "description": "Node.JS native bindings to Haivisions SRT (Secure Reliable Transport) protocol library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Streampunk/skrewt.git"
+  },
+  "keywords": [
+    "SRT",
+    "srt",
+    "secure",
+    "reliable",
+    "transport"
+  ],
+  "author": "Streampunk Media <furnace@streampunk.media> (http://www.streampunk.media)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Streampunk/skrewt/issues"
+  },
+  "homepage": "https://github.com/Streampunk/skrewt#readme"
+}
