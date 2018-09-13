@@ -1,2 +1,2 @@
 # skrewt
-Native bindings to Haivisions Secure Reliable Transport protocol library.
+Node.JS native bindings to Haivisions SRT (Secure Reliable Transport) protocol library.
